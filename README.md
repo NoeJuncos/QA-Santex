@@ -1,6 +1,6 @@
 # QA-Santex
 Automation con Cypress - Curso de Santex
-En esta nueva entrega se crearon los archivos:
+En esta nueva entrega (11/11) se crearon los archivos:
 - formularioClientes.cy.js (test)
 - fixtures  - registroClienteFail.json
             - registroClienteOK.json

@@ -15,4 +15,6 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-import './registro.commands'
+import './registroUsuario.commands'
+import './registroCliente.commands'
+import '../utils/generatorCliente'
